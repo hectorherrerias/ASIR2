@@ -20,7 +20,6 @@ class Operacion
 
 }
 
-# Crear array de objetos de Operacion
 
 $arrayoperaciones = New-Object System.Collections.ArrayList
 
