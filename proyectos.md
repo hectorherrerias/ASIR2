@@ -106,3 +106,8 @@ $var = foreach($proceso in (Get-Process).path)
 }
 
 ```
+
+---
+
+
+
